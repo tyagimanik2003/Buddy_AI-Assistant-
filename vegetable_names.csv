@@ -1,0 +1,16 @@
+Vegetable Name,No of Images,Accuracy,Samples
+Bean,1000,1,150
+Bitter_Gourd,1000,1,150
+Bottle_Gourd,1000,1,150
+Brinjal,1000,1,150
+Broccoli,1000,0.99,150
+Cabbage,1000,1,150
+Capsicum,1000,1,150
+Carrot,1000,1,150
+Cauliflower,1000,1,150
+Cucumber,1000,1,150
+Papaya,1000,0.99,150
+Potato,1000,1,150
+Pumpkin,1000,1,150
+Radish,1000,1,150
+Tomato,1000,1,150

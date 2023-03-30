@@ -1,0 +1,9 @@
+Monument Name,No of Images,Accuracy,Samples
+alai_darwaza,250,1,19
+alai_minar,250,1,30
+India Gate,250,0.94,18
+iron_pillar,250,0.9,58
+jamali_kamal_tomb,250,0.91,32
+Lotus Temple,250,1,25
+qutub_minar,250,0.95,56
+Red Fort,250,1,31

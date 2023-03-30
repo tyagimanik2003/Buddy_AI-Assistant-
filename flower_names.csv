@@ -1,0 +1,11 @@
+Flower Name,No of Images,Accuracy,Samples
+bellflower,450,0.9,71
+black_eyed_susan,452,0.98,53
+daisy,450,0.89,57
+dandelion,449,0.85,54
+iris,450,0.97,67
+rose,450,0.79,48
+sunflower,450,0.88,42
+tulip,457,0.79,39
+Water_lily,456,0.9,50
+carnation,448,0.86,49

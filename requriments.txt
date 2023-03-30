@@ -1,0 +1,12 @@
+opencv-python
+pandas
+cvzone
+mediapipe
+tensorflow
+openai
+easyocr
+pyttsx3
+imutils
+gradio
+SpeechRecognition
+neuralintents
